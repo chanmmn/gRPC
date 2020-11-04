@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30524.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAppgRpcCore", "ConAppgRpcCore\ConAppgRpcCore.csproj", "{8D703E45-805B-4C96-821F-0BB7B9721A07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D703E45-805B-4C96-821F-0BB7B9721A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D703E45-805B-4C96-821F-0BB7B9721A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D703E45-805B-4C96-821F-0BB7B9721A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D703E45-805B-4C96-821F-0BB7B9721A07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BAE05C1-FD54-4146-8B89-270EA9F085E9}
+	EndGlobalSection
+EndGlobal
